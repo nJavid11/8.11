@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\InstanceCount\InstanceCount\bin\Debug\netcoreapp3.1\InstanceCount.exe
+C:\Users\User\source\repos\InstanceCount\InstanceCount\bin\Debug\netcoreapp3.1\InstanceCount.deps.json
+C:\Users\User\source\repos\InstanceCount\InstanceCount\bin\Debug\netcoreapp3.1\InstanceCount.runtimeconfig.json
+C:\Users\User\source\repos\InstanceCount\InstanceCount\bin\Debug\netcoreapp3.1\InstanceCount.runtimeconfig.dev.json
+C:\Users\User\source\repos\InstanceCount\InstanceCount\bin\Debug\netcoreapp3.1\InstanceCount.dll
+C:\Users\User\source\repos\InstanceCount\InstanceCount\bin\Debug\netcoreapp3.1\InstanceCount.pdb
+C:\Users\User\source\repos\InstanceCount\InstanceCount\obj\Debug\netcoreapp3.1\InstanceCount.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\InstanceCount\InstanceCount\obj\Debug\netcoreapp3.1\InstanceCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\InstanceCount\InstanceCount\obj\Debug\netcoreapp3.1\InstanceCount.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\InstanceCount\InstanceCount\obj\Debug\netcoreapp3.1\InstanceCount.AssemblyInfo.cs
+C:\Users\User\source\repos\InstanceCount\InstanceCount\obj\Debug\netcoreapp3.1\InstanceCount.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InstanceCount\InstanceCount\obj\Debug\netcoreapp3.1\InstanceCount.dll
+C:\Users\User\source\repos\InstanceCount\InstanceCount\obj\Debug\netcoreapp3.1\InstanceCount.pdb
+C:\Users\User\source\repos\InstanceCount\InstanceCount\obj\Debug\netcoreapp3.1\InstanceCount.genruntimeconfig.cache
